@@ -1,8 +1,9 @@
 .caja_principal{
-    background-color: #f0f0f0f0;
-    width: 97%;
+    background-color: #52F5BC;
+    width: 80%;
     margin: 0 auto;
     border-radius: 20px;
+    margin-top: 50px;
 }
 .ubicacion_img{
     width: 40px;
