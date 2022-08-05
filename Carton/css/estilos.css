@@ -13,6 +13,7 @@ header{
     top: 0;
     left: 0;
     background: #fff;
+    position: absolute;
 }
 
 /* HEADER SUPERIOR*/
@@ -23,6 +24,8 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+    position: relative;
+    z-index: 100;
 }
 
 .logo img{
@@ -36,6 +39,9 @@ header{
     height: 70px;
     background-color: #023877;
     padding: 0px 20px;
+    position: relative;
+    z-index: 100;
+
 }
 
 .menu{
