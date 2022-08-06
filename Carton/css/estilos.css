@@ -73,12 +73,14 @@ nav > ul > li:first-child > a{
     padding: 20px 40px;
 }
 
+
 nav > ul > li:first-child:hover > a{
     background-image: url(../img/iconos_generales/home.png);
     background-size: 24px;
     background-repeat: no-repeat;
     background-position: center center ;
 }
+
 
 nav > ul > li > a{
     width: 100%;
